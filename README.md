@@ -1,7 +1,5 @@
 # Network Traffic Analysis of Third-Party Android Applications
 
-![Project Banner](https://via.placeholder.com/800x200.png?text=Network+Traffic+Analysis)
-
 ## Project Description
 
 This project aims to analyze network traffic of third-party Android applications using `mitmproxy`. The primary goal is to identify and understand the data transmission patterns, security concerns, and potential privacy issues associated with these applications. By leveraging `mitmproxy`, we can monitor, capture, and analyze network packets to provide insightful reports on the behavior of these applications.
