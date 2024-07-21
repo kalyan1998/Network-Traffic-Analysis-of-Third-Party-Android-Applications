@@ -51,17 +51,6 @@ This project aims to analyze network traffic of third-party Android applications
     python analyze_traffic.py capture.log
     ```
 
-## Contributing
-
-We welcome contributions from the community! If you have suggestions, bug reports, or feature requests, please open an issue or submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/YourFeature`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature/YourFeature`)
-5. Open a pull request
-
-
 ## Acknowledgments
 
 - This project was done in collaboration with [Shravani-Konda](https://github.com/shravanik31).
